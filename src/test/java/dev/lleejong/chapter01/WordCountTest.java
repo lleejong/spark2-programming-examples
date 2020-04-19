@@ -1,6 +1,5 @@
-package dev.lleejong;
+package dev.lleejong.chapter01;
 
-import dev.lleejong.chapter01.WordCount;
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
